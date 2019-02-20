@@ -20,12 +20,10 @@
 <br>
 <img src = "images/bamazonCustomerview1.PNG">
 <br>
-<br>
 * Asks for the quantity.
 <br>
 * If there is a sufficient amount of the product in stock, it will return the total for that purchase.
 <img src = "images/bamazonCustomerview2.PNG">
-<br>
 <br>
 * However, if there is not enough of the product in stock, it will tell the user that there is an Insufficent Quantity. 
 <br>
@@ -35,7 +33,6 @@
 * If "n" (no) is chosen then it will give the user a 'See You Soon!" response.
 <br>
 <img src ="images/bamazonCustomerview3.PNG">
-<br>
 <br>
 * If the purchase goes through, it updates the stock quantity to reflect the purchase.
 <br>
@@ -47,12 +44,12 @@
 <br>
 * MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
-<br>Prerequisites<br>
+<h3>Prerequisites</h3>
 * Node.js 
 <br>
 * Create a MYSQL database called 'Bamazon', reference schema.sql
 
-<h3>Built With<h3>
+<h3>Built With</h3>
 * MySQLWorkbench
 <br>
 * Terminal/Gitbash
