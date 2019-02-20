@@ -1,4 +1,4 @@
-# bamazon
+# BAMazon
 
 <h3>What is BAMazon?</h3>
 * BAMazon is an Amazon-like store front using Node.js and MySQL.
@@ -24,7 +24,7 @@
 * Asks for the quantity.
 <br>
 * If there is a sufficient amount of the product in stock, it will return the total for that purchase.
-<img src = "images/bamasonCustomerview2.PNG>
+<img src = "images/bamazonCustomerview2.PNG">
 <br>
 <br>
 * However, if there is not enough of the product in stock, it will tell the user that there is an Insufficent Quantity. 
@@ -34,12 +34,11 @@
 <br>
 * If "n" (no) is chosen then it will give the user a 'See You Soon!" response.
 <br>
-<img src ="images/bamazonCutomerview3.PNG>
+<img src ="images/bamazonCustomerview3.PNG">
 <br>
 <br>
 * If the purchase goes through, it updates the stock quantity to reflect the purchase.
 <br>
-* It will also update the product sales in the department table.
 
 <h3>Technology</h3>
 * Node.js
